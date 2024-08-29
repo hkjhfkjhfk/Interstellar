@@ -303,7 +303,7 @@
   },
   {
     "name": "YouTube Alternative (Invidious)",
-    "link": "https://vid.puffyan.us/",
+    "link": "https://iv.ggtyler.dev/",
     "image": "/assets/media/icons/youtube.webp",
     "categories": ["all", "social", "stream"]
   },
